@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/5/30 23:45:28。
+     1>项目“D:\project\visual c++\CFaceToFaceConsole\CFaceToFaceConsole\CFaceToFaceConsole.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\CFaceToFaceConsole\Debug\CFaceToFaceConsole.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\CFaceToFaceConsole\Debug\CFaceToFaceConsole.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\CFaceToFaceConsole\Debug\CFaceToFaceConsole.lib" /MACHINE:X86 Debug\main.obj
+     1>MSVCRTD.lib(crtexew.obj) : error LNK2019: 无法解析的外部符号 _WinMain@16，该符号在函数 ___tmainCRTStartup 中被引用
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): error MSB6006: “link.exe”已退出，代码为 1120。
+     1>D:\project\visual c++\CFaceToFaceConsole\Debug\CFaceToFaceConsole.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“D:\project\visual c++\CFaceToFaceConsole\CFaceToFaceConsole\CFaceToFaceConsole.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.03

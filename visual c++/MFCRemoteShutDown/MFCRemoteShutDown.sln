@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCRemoteShutDown", "MFCRemoteShutDown\MFCRemoteShutDown.vcxproj", "{0CF80AF7-30CE-4540-AEAD-6E2FC03FE3AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCRemoteShutDownClient", "MFCRemoteShutDownClient\MFCRemoteShutDownClient.vcxproj", "{3574DF82-DA3D-494F-9979-64884E882553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF80AF7-30CE-4540-AEAD-6E2FC03FE3AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CF80AF7-30CE-4540-AEAD-6E2FC03FE3AF}.Debug|Win32.Build.0 = Debug|Win32
+		{0CF80AF7-30CE-4540-AEAD-6E2FC03FE3AF}.Release|Win32.ActiveCfg = Release|Win32
+		{0CF80AF7-30CE-4540-AEAD-6E2FC03FE3AF}.Release|Win32.Build.0 = Release|Win32
+		{3574DF82-DA3D-494F-9979-64884E882553}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3574DF82-DA3D-494F-9979-64884E882553}.Debug|Win32.Build.0 = Debug|Win32
+		{3574DF82-DA3D-494F-9979-64884E882553}.Release|Win32.ActiveCfg = Release|Win32
+		{3574DF82-DA3D-494F-9979-64884E882553}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

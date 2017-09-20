@@ -1,0 +1,6 @@
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebTest1.webtest
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.dll
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.pdb
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csprojResolveAssemblyReference.cache
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.dll
+D:\project\visual c++\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.pdb

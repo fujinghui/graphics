@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/8/4 0:44:08。
+     1>项目“D:\project\visual c++\WinOpenGL\WinOpenGL\WinOpenGL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\WinGame_chapter_7_1\WinGame_chapter_7_1\main.cpp
+         main.cpp
+     1>d:\project\visual c++\wingame_chapter_7_1\wingame_chapter_7_1\main.cpp(4): fatal error C1083: 无法打开包括文件: “CGfxOpengl.h”: No such file or directory
+     1>已完成生成项目“D:\project\visual c++\WinOpenGL\WinOpenGL\WinOpenGL.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58

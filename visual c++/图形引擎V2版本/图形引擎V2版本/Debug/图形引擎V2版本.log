@@ -1,0 +1,140 @@
+﻿生成启动时间为 2016/11/6 16:40:29。
+     1>项目“D:\project\visual c++\图形引擎V2版本\图形引擎V2版本\图形引擎V2版本.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt graph_engine.cpp
+         graph_engine.cpp
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(141): warning C4005: “MATV1_ATTR_SHADE_MODE_FASTPHONG”: 宏重定义
+                 d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(136) : 参见“MATV1_ATTR_SHADE_MODE_FASTPHONG”的前一个定义
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(497): warning C4005: “FCMP”: 宏重定义
+                 d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\math_engine.h(229) : 参见“FCMP”的前一个定义
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(505): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(506): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.h(507): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(744): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(933): warning C4101: “mtmp”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1525): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1526): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1527): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1554): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1555): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1556): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1580): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1581): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1582): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1613): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1614): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1615): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1587): warning C4101: “d”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1684): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1685): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1686): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1707): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1708): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1709): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1731): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1732): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1733): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1763): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1764): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1765): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1641): warning C4101: “shaded_color”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1738): warning C4101: “d”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1936): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1937): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1945): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1946): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1978): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2022): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2023): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2024): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2047): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2048): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2049): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2073): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2074): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2075): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2105): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2106): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2107): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2152): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2153): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2154): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2160): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2161): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2162): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2168): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2169): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2170): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2183): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2184): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2185): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2195): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2196): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2197): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2207): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2208): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2209): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2223): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2224): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2225): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2232): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2233): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2234): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2241): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2242): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2243): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2264): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2265): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2266): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2283): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2284): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2285): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2303): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2304): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2305): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1964): warning C4101: “shaded_color”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(1966): warning C4101: “d”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2543): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2544): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2558): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2559): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2628): warning C4101: “base_color”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2717): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2718): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2719): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2740): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2741): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2742): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2763): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2764): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2765): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2795): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2796): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2797): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2665): warning C4101: “gi”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2663): warning C4101: “r_sum1”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2664): warning C4101: “b_sum2”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2663): warning C4101: “b_sum1”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2663): warning C4101: “g_sum1”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2666): warning C4101: “shaded_color”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2665): warning C4101: “ri”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2662): warning C4101: “b_sum0”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2662): warning C4101: “r_sum0”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2668): warning C4101: “d”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2665): warning C4101: “bi”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2664): warning C4101: “r_sum2”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2664): warning C4101: “g_sum2”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎v2版本\图形引擎v2版本\graph_engine.cpp(2604): warning C4715: “Insert_POLY4DV2_RENDERLIST4DV2”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\图形引擎V2版本\Debug\图形引擎V2版本.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\图形引擎V2版本\Debug\图形引擎V2版本.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\图形引擎V2版本\Debug\图形引擎V2版本.lib" /MACHINE:X86 Debug\assist.obj
+         Debug\draw.obj
+         Debug\graph_engine.obj
+         Debug\main.obj
+         Debug\math_engine.obj
+         Debug\model.obj
+         图形引擎V2版本.vcxproj -> D:\project\visual c++\图形引擎V2版本\Debug\图形引擎V2版本.exe
+     1>已完成生成项目“D:\project\visual c++\图形引擎V2版本\图形引擎V2版本\图形引擎V2版本.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.82

@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/7/27 13:16:24。
+     1>项目“D:\project\visual c++\WinAPIStudy1_钩子窗口\WinAPIStudy1_钩子窗口\WinAPIStudy1_钩子窗口.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\project\visual c++\winapistudy1_钩子窗口\winapistudy1_钩子窗口\main.cpp(74): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\WinAPIStudy1_钩子窗口\Debug\WinAPIStudy1_钩子窗口.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\WinAPIStudy1_钩子窗口\Debug\WinAPIStudy1_钩子窗口.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\WinAPIStudy1_钩子窗口\Debug\WinAPIStudy1_钩子窗口.lib" /MACHINE:X86 Debug\main.obj
+         WinAPIStudy1_钩子窗口.vcxproj -> D:\project\visual c++\WinAPIStudy1_钩子窗口\Debug\WinAPIStudy1_钩子窗口.exe
+     1>已完成生成项目“D:\project\visual c++\WinAPIStudy1_钩子窗口\WinAPIStudy1_钩子窗口\WinAPIStudy1_钩子窗口.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.30

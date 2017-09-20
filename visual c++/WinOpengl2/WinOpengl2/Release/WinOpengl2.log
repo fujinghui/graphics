@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/8/4 0:52:50。
+     1>项目“D:\project\visual c++\WinOpengl2\WinOpengl2\WinOpengl2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\WinOpengl2\Release\WinOpengl2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\WinOpengl2\Release\WinOpengl2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\WinOpengl2\Release\WinOpengl2.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+     1>main.obj : error LNK2001: 无法解析的外部符号 "public: virtual __thiscall CGfxOpenGL::~CGfxOpenGL(void)" (??1CGfxOpenGL@@UAE@XZ)
+     1>main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall CGfxOpenGL::CGfxOpenGL(void)" (??0CGfxOpenGL@@QAE@XZ)
+     1>MSVCRT.lib(crtexe.obj) : error LNK2001: 无法解析的外部符号 _main
+     1>D:\project\visual c++\WinOpengl2\Release\WinOpengl2.exe : fatal error LNK1120: 3 个无法解析的外部命令
+     1>已完成生成项目“D:\project\visual c++\WinOpengl2\WinOpengl2\WinOpengl2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.79

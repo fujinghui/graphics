@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/5/7 23:58:37。
+     1>项目“D:\project\visual c++\WinGame32_chapter_19_0\WinGame32_chapter_19_0\WinGame32_chapter_19_0.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>d:\project\visual c++\wingame32_chapter_19_0\wingame32_chapter_19_0\fclass.h(109): warning C4101: “hr”: 未引用的局部变量
+     1>main.cpp(113): warning C4101: “tempName”: 未引用的局部变量
+     1>main.cpp(114): warning C4101: “Adapter”: 未引用的局部变量
+     1>main.cpp(187): warning C4101: “buffer”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\WinGame32_chapter_19_0\Release\WinGame32_chapter_19_0.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\WinGame32_chapter_19_0\Release\WinGame32_chapter_19_0.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\WinGame32_chapter_19_0\Release\WinGame32_chapter_19_0.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         WinGame32_chapter_19_0.vcxproj -> D:\project\visual c++\WinGame32_chapter_19_0\Release\WinGame32_chapter_19_0.exe
+     1>已完成生成项目“D:\project\visual c++\WinGame32_chapter_19_0\WinGame32_chapter_19_0\WinGame32_chapter_19_0.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12

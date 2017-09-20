@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/7/11 22:33:06。
+     1>项目“D:\project\visual c++\WinAPI_DLL\gouzi\gouzi\gouzi.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GOUZI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt femy.cpp
+         femy.cpp
+     1>d:\project\visual c++\winapi_dll\gouzi\gouzi\femy.cpp(7): warning C4081: 应输入“newline”；找到“;”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"Source.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.lib" /MACHINE:X86 /DLL Debug\femy.obj
+            正在创建库 D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.lib 和对象 D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.exp
+         gouzi.vcxproj -> D:\project\visual c++\WinAPI_DLL\gouzi\Debug\gouzi.dll
+     1>已完成生成项目“D:\project\visual c++\WinAPI_DLL\gouzi\gouzi\gouzi.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.48

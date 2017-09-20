@@ -1,0 +1,85 @@
+﻿生成启动时间为 2017/7/16 21:34:20。
+     1>项目“D:\project\visual c++\图形引擎_光照\图形引擎_光照\图形引擎_光照.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt assist.cpp draw.cpp graph_engine.cpp main.cpp math_engine.cpp model.cpp
+         model.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(336): warning C4101: “tmp_string”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(539): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(619): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(647): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(661): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(668): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(751): warning C4018: “>”: 有符号/无符号不匹配
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\model.cpp(763): warning C4018: “<”: 有符号/无符号不匹配
+         math_engine.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(906): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(913): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(931): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(938): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(955): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(971): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(980): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\math_engine.cpp(1010): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         main.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\main.cpp(193): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\main.cpp(247): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\main.cpp(257): warning C4305: “参数”: 从“double”到“float”截断
+         graph_engine.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(724): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(904): warning C4101: “mtmp”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1305): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1323): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1471): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1472): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1473): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1500): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1501): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1502): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1526): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1527): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1528): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1559): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1560): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1561): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1533): warning C4101: “d”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1630): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1631): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1632): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1653): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1654): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1655): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1677): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1678): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1679): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1709): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1710): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1711): warning C4244: “+=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1587): warning C4101: “shaded_color”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\graph_engine.cpp(1684): warning C4101: “d”: 未引用的局部变量
+         draw.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(49): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(50): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(66): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(78): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(87): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\draw.cpp(4): warning C4101: “new_x”: 未引用的局部变量
+         assist.cpp
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\assist.cpp(36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\assist.cpp(52): warning C4101: “next”: 未引用的局部变量
+     1>d:\project\visual c++\图形引擎_光照\图形引擎_光照\assist.cpp(123): warning C4101: “next”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\visual c++\图形引擎_光照\Debug\图形引擎_光照.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\visual c++\图形引擎_光照\Debug\图形引擎_光照.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\visual c++\图形引擎_光照\Debug\图形引擎_光照.lib" /MACHINE:X86 Debug\assist.obj
+         Debug\draw.obj
+         Debug\graph_engine.obj
+         Debug\main.obj
+         Debug\math_engine.obj
+         Debug\model.obj
+     1>main.obj : error LNK2005: "public: int __thiscall OBJECT4DV2_TYP::Set_Frame(int)" (?Set_Frame@OBJECT4DV2_TYP@@QAEHH@Z) 已经在 graph_engine.obj 中定义
+     1>model.obj : error LNK2005: "public: int __thiscall OBJECT4DV2_TYP::Set_Frame(int)" (?Set_Frame@OBJECT4DV2_TYP@@QAEHH@Z) 已经在 graph_engine.obj 中定义
+     1>D:\project\visual c++\图形引擎_光照\Debug\图形引擎_光照.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“D:\project\visual c++\图形引擎_光照\图形引擎_光照\图形引擎_光照.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.75
